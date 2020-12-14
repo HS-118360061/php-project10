@@ -20,7 +20,7 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for thibn ,j s template -->
-  <link href="/css/resume.min.css" rel="stylesheet">
+  <link href="css/resume.min.css" rel="stylesheet">
 
 </head>
 
