@@ -12,7 +12,7 @@
   <title>Resume - Start Bootstrap Theme</title>
 
   <!-- Bootstrap core CSS -->
-  <link href="startbootstrap-resume-gh-pages/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
 
   <!-- Custom fonts for this template ss-->
   <link href="https://fonts.googleapis.com/css?family=Saira+Extra+Condensed:500,700" rel="stylesheet">
@@ -20,7 +20,7 @@
   <link href="vendor/fontawesome-free/css/all.min.css" rel="stylesheet">
 
   <!-- Custom styles for thibn ,j s template -->
-  <link href="startbootstrap-resume-gh-pages/css/resume.min.css" rel="stylesheet">
+  <link href="/css/resume.min.css" rel="stylesheet">
 
 </head>
 
