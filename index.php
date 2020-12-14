@@ -157,7 +157,7 @@
    <div class="topnav">
    
        <a href="index.php">Menu</a>
-       <a href="index.html">CV</a>
+       <a href="startbootstrap-resume-gh-pages/cv.php">CV</a>
        <a href="interests.html">Interests</a>
        <a href="Travel.html">Travel</a>
        <a href="consultancy.html">Consultancy Services</a>
