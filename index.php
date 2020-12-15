@@ -22,7 +22,7 @@
       box-shadow: 0 9px #202127;
       position:flex;
 	    left: 584px;
-      top: 110px;
+  
      
      }
   .button {
