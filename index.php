@@ -7,7 +7,22 @@
 <head>
 
 <style>
-   
+   .button20 {
+      display: inline-block;
+      padding: 15px 55px;
+      font-size: 24px;
+      cursor: pointer;
+      text-align: center;
+      text-decoration: none;
+      outline: none;
+      color: #fff;
+      background-color: #4CAF50;
+      border: none;
+      border-radius: 15px;
+      box-shadow: 0 9px #202127;
+      position:flex;
+     
+     }
   .button {
       display: inline-block;
       padding: 15px 55px;
@@ -163,7 +178,7 @@
        <a href="consultancy.html">Consultancy Services</a>
        <a href="eBus1.php">Consultancy Shop</a>
 </div>
-      <a href=""><button onclick=alert("How are you doing?) class="button">Hi Laura</button></a>
+      <button onclick=alert("How are you doing?) class="button20">Hi Laura</button>
     <a href="startbootstrap-resume-gh-pages/cv.php"><button class="button">CV</button></a>
 
     <div id="grad1" style="text-align:center;margin:auto;color:#FDFEFE;font-size:40px;font-weight:bold">
