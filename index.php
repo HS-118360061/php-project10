@@ -20,7 +20,7 @@
       border: none;
       border-radius: 15px;
       box-shadow: 0 9px #202127;
-      position:flex;
+      position:absolute;
 	    left: 584px;
   
      
@@ -138,6 +138,7 @@
 
    <style>
    #grad1 {
+      height:1000px;
       background-color: red; /* For browsers that do not support gradients */
       background-image: linear-gradient(blue, black 40%); /* Standard syntax (must be last) */
         
@@ -184,7 +185,7 @@
 		alert("How are you doing");
 	}
 	</script>
-      <button onclick="alerting()" class="button20">Hi Laura</button>
+      
     <a href="startbootstrap-resume-gh-pages/cv.php"><button class="button">CV</button></a>
 
     <div id="grad1" style="text-align:center;margin:auto;color:#FDFEFE;font-size:40px;font-weight:bold">
@@ -197,7 +198,7 @@ Orb Consultancy Services
     <a href="consultancy.html"> <button class="button3">About Consulting</button></a>
 
  <a href="eBus1.php"> <button class="button4">Consulting shop</button></a>
-
+ <button onclick="alerting()" class="button20">Hi Laura</button>
 
 </body>
 </html>
