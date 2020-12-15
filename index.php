@@ -21,6 +21,8 @@
       border-radius: 15px;
       box-shadow: 0 9px #202127;
       position:flex;
+	    left: 584px;
+      top: 110px;
      
      }
   .button {
@@ -136,7 +138,6 @@
 
    <style>
    #grad1 {
-      height:flex;
       background-color: red; /* For browsers that do not support gradients */
       background-image: linear-gradient(blue, black 40%); /* Standard syntax (must be last) */
         
