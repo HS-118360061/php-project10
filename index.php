@@ -163,7 +163,7 @@
        <a href="consultancy.html">Consultancy Services</a>
        <a href="eBus1.php">Consultancy Shop</a>
 </div>
-	<h1>Hi Laura</h1>
+      <a href=""><button onclick=alert("How are you doing?) class="button">Hi Laura</button></a>
     <a href="startbootstrap-resume-gh-pages/cv.php"><button class="button">CV</button></a>
 
     <div id="grad1" style="text-align:center;margin:auto;color:#FDFEFE;font-size:40px;font-weight:bold">
