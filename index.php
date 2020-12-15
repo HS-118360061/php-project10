@@ -136,7 +136,7 @@
 
    <style>
    #grad1 {
-      height:800px;
+      height:flex;
       background-color: red; /* For browsers that do not support gradients */
       background-image: linear-gradient(blue, black 40%); /* Standard syntax (must be last) */
         
@@ -178,7 +178,12 @@
        <a href="consultancy.html">Consultancy Services</a>
        <a href="eBus1.php">Consultancy Shop</a>
 </div>
-      <button onclick=alert("How are you doing?) class="button20">Hi Laura</button>
+	<script>
+	function alerting(){
+		alert("How are you doing");
+	}
+	</script>
+      <button onclick="alerting()" class="button20">Hi Laura</button>
     <a href="startbootstrap-resume-gh-pages/cv.php"><button class="button">CV</button></a>
 
     <div id="grad1" style="text-align:center;margin:auto;color:#FDFEFE;font-size:40px;font-weight:bold">
