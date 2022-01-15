@@ -182,7 +182,7 @@
 </div>
 	<script>
 	function alerting(){
-		alert("How are you doing , Do you want to do something this weekend?");
+		alert("Hey babe , your beautiful in every way!!!  :) ");
 	}
 	</script>
       
