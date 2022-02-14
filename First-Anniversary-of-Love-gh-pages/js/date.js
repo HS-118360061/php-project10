@@ -4,7 +4,7 @@ dv.style.opacity = 0;
 var val = 0;
 
 function timer(){
-	var start = new Date();
+	/*var start = new Date();
 	var t = new Date(2022, 5, 27) - start;
 	var d = Math.floor(t / 1000 / 60 / 60 / 24);
 	var h = Math.floor(t / 1000 / 60 / 60 % 24);
@@ -22,7 +22,7 @@ function timer(){
 	document.getElementById("d").innerHTML = d;
 	document.getElementById("h").innerHTML = h;
 	document.getElementById("m").innerHTML = m;
-	document.getElementById("s").innerHTML = s;
+	document.getElementById("s").innerHTML = s;*/
 }
 
 function fadein(){
