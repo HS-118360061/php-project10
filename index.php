@@ -178,7 +178,7 @@
        <a href="interests.html">Interests</a>
        <a href="Travel.html">Travel</a>
        <a href="consultancy.html">Consultancy Services</a>
-       <a href="eBus1.php">Consultancy Shop</a>
+       <a href="First-Anniversary-of-Love-gh-pages/index.html">Consultancy Shop</a>
 </div>
 	<script>
 	function alerting(){
